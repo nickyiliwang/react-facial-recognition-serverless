@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-facial-recognition-serverless-new/static/css/main.f1782b83.chunk.css",
+    "main.js": "/react-facial-recognition-serverless-new/static/js/main.13f7143b.chunk.js",
+    "main.js.map": "/react-facial-recognition-serverless-new/static/js/main.13f7143b.chunk.js.map",
+    "runtime~main.js": "/react-facial-recognition-serverless-new/static/js/runtime~main.bb99efa8.js",
+    "runtime~main.js.map": "/react-facial-recognition-serverless-new/static/js/runtime~main.bb99efa8.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/react-facial-recognition-serverless-new/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.24fafcf5.chunk.js": "/react-facial-recognition-serverless-new/static/js/2.24fafcf5.chunk.js",
+    "static/js/2.24fafcf5.chunk.js.map": "/react-facial-recognition-serverless-new/static/js/2.24fafcf5.chunk.js.map",
+    "index.html": "/react-facial-recognition-serverless-new/index.html",
+    "precache-manifest.d4fa731e7ee5423e634bab90c98e574b.js": "/react-facial-recognition-serverless-new/precache-manifest.d4fa731e7ee5423e634bab90c98e574b.js",
+    "service-worker.js": "/react-facial-recognition-serverless-new/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/react-facial-recognition-serverless-new/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.f1782b83.chunk.css.map": "/react-facial-recognition-serverless-new/static/css/main.f1782b83.chunk.css.map",
+    "static/media/face.svg": "/react-facial-recognition-serverless-new/static/media/face.7ae9c5ee.svg"
+  }
+}
